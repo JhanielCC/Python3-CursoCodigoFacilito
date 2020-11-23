@@ -20,7 +20,10 @@ final_message = "Nuevo curso de  %s por %s , código: %s" %(course,user,code)		#
 final_message = 'Nuevo curso de  {} por {} , código: {}' .format(course,user,code)		#3
 print(final_message) 
 
-#STRING COMO LISTAS
+
+"""
+STRING COMO LISTAS
+"""
 my_string = "Curso de CF Python 3"
 print(my_string)
 print("Posción [0]:     ",my_string[0])
