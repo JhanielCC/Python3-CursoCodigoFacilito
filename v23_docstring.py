@@ -18,7 +18,8 @@ print(documentacion)
 
 #Interprete de python
 """
-python3 
-from v23_docstring import generador
-help(generador)
+->python3 
+->from v23_docstring import generador
+->help(generador)
+...
 """
